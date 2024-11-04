@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/(tabs)/home-screen.jsx", "components/food-preview.jsx", "context/StatusContext.jsx", "context/FoodContext.jsx"  ]
 }
