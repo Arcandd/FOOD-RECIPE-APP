@@ -123,7 +123,7 @@ const styles = StyleSheet.create({
 
   background: {
     flex: 1,
-    height: 500,
+    height: 480,
   },
 
   safeArea: {
